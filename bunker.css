@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: red;
+    overflow-y: scroll;
+}
+
+.intro {
+    text-align: center;
+    h1 {
+        font-size: 100px;
+    }
+    img {
+    width: 1000px;
+    height: 667px;
+    }
+}
