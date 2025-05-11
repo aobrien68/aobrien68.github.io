@@ -17,7 +17,9 @@ body {
 
 .uncertain {
     img {
-        text-align: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
         width: 667px;
         height: 667px;
     }
