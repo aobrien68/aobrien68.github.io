@@ -10,7 +10,15 @@ body {
         font-size: 100px;
     }
     img {
-    width: 1000px;
-    height: 667px;
+        width: 1000px;
+        height: 667px;
+    }
+}
+
+.uncertain {
+    img {
+        text-align: center;
+        width: 667px;
+        height: 667px;
     }
 }
