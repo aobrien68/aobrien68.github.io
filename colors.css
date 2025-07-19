@@ -3,3 +3,9 @@ body {
     color: white;
     text-align: center;
 }
+
+div div{
+    width: 20%;
+    float: left;
+}
+
