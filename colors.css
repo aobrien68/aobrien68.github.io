@@ -4,8 +4,12 @@ body {
     text-align: center;
 }
 
-div div{
+div div {
     width: 20%;
     float: left;
+}
+
+.greened {
+    color: black;
 }
 
